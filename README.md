@@ -51,6 +51,5 @@ O projeto inclui:
 
 ## Objetivo profissional
 
-## Objetivo profissional
 
 Atuar como Analista de Dados em projetos onde análise, visualização e interpretação de dados possam apoiar decisões de negócio de forma clara, estruturada e orientada por evidências.
