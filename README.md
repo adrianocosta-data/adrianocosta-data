@@ -34,7 +34,7 @@ Principais entregas:
 - validação de qualidade e consistência das bases;
 - dashboard analítico e executivo.
 
-[Ver projeto no GitHub](https://github.com/adrianocosta-data/Airbn_rio_analise_oportunidades)
+[Ver projeto no GitHub](https://github.com/adrianocosta-data/airbnb-rio-analise-oportunidades)
 
 ## Atualmente estudando
 
