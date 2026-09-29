@@ -1,4 +1,4 @@
-# Opa, aqui é Adriano 
+# Adriano Costa | Analista de Dados
 
 
 Analista de Dados com foco em transformar dados em análises claras para apoiar decisões de negócio.
@@ -20,36 +20,32 @@ Atualmente estou construindo um portfólio com projetos voltados para análise d
 
 ### Airbnb Rio — Análise de Oportunidades para Novos Anfitriões
 
-Análise desenvolvida em Power BI com dados públicos do Inside Airbnb para identificar bairros do Rio de Janeiro com melhor equilíbrio entre:
+Projeto em Power BI com dados públicos do Inside Airbnb para identificar bairros com melhor equilíbrio entre:
 
 - receita estimada;
 - ocupação;
 - concorrência.
 
-O projeto inclui:
+Principais entregas:
 
-- tratamento e modelagem dos dados;
-- criação de métricas em DAX;
+- tratamento e modelagem dos dados com Power Query;
+- criação de métricas e scores em DAX;
 - ranking de oportunidade;
-- validação de qualidade dos dados;
+- validação de qualidade e consistência das bases;
 - dashboard analítico e executivo.
 
 [Ver projeto no GitHub](https://github.com/adrianocosta-data/Airbn_rio_analise_oportunidades)
 
----
-
 ## Atualmente estudando
 
-- análise de dados aplicada a problemas de negócio;
-- SQL;
-- Python para análise de dados;
-- Power BI e DAX;
-- estatística aplicada;
+- SQL para análise de dados
+- Python / pandas
+- Power BI e DAX
+- Estatística aplicada
 - gestão de projetos.
 
 ---
 
 ## Objetivo profissional
 
-
-Atuar como Analista de Dados em projetos onde análise, visualização e interpretação de dados possam apoiar decisões de negócio de forma clara, estruturada e orientada por evidências.
+Atuar como Analista de Dados em projetos de BI e análise de negócio, utilizando Power BI, SQL, Python e estatística para transformar dados em insights claros, apoiar decisões e melhorar processos.
