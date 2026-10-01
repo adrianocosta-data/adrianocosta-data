@@ -64,3 +64,11 @@ Principais entregas:
 ## Objetivo profissional
 
 Atuar como Analista de Dados em projetos de BI e análise de negócio, utilizando Power BI, SQL, Python e estatística para transformar dados em insights claros, apoiar decisões e melhorar processos.
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianocostapereira/)
+[![Email](https://img.shields.io/badge/Gmail-Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acp.cientista@gmail.com)
+
