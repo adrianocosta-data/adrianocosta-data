@@ -40,7 +40,11 @@ Transformando dados em análises claras para apoiar decisões de negócio.
 </p>
 Projeto de Business Intelligence desenvolvido com dados públicos do Inside Airbnb, analisando 48.713 anúncios do Rio de Janeiro para identificar bairros com combinações favoráveis de receita estimada, ocupação e concorrência.
 
+
+
+
 **Principais entregas:**
+
 - Tratamento e modelagem de dados com Power Query;
 - Desenvolvimento de indicadores e ranking multicritério em DAX;
 - Validação das bases de anúncios e calendário;
