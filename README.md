@@ -23,28 +23,12 @@ Transformando dados em análises claras para apoiar decisões de negócio.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-Atualmente estou construindo um portfólio com projetos voltados para análise de negócio, visualização de dados e tomada de decisão.
 
 ---
 
 ## Projeto em destaque
 
 ### Airbnb Rio — Análise de Oportunidades para Novos Anfitriões
-
-Projeto em Power BI com dados públicos do Inside Airbnb para identificar bairros com melhor equilíbrio entre:
-
-- receita estimada;
-- ocupação;
-- concorrência.
-
-Principais entregas:
-
-- tratamento e modelagem dos dados com Power Query;
-- criação de métricas e scores em DAX;
-- ranking de oportunidade;
-- validação de qualidade e consistência das bases;
-- dashboard analítico e executivo.
-
 <p align="center">
   <a href="https://github.com/adrianocosta-data/airbnb-rio-analise-oportunidades">
     <img
@@ -54,6 +38,15 @@ Principais entregas:
     />
   </a>
 </p>
+Projeto de Business Intelligence desenvolvido com dados públicos do Inside Airbnb, analisando 48.713 anúncios do Rio de Janeiro para identificar bairros com combinações favoráveis de receita estimada, ocupação e concorrência.
+
+**Principais entregas:**
+- Tratamento e modelagem de dados com Power Query;
+- Desenvolvimento de indicadores e ranking multicritério em DAX;
+- Validação das bases de anúncios e calendário;
+- Dashboard executivo e analítico para apoiar decisões de negócio.
+
+
 
 
 [Ver projeto no GitHub](https://github.com/adrianocosta-data/airbnb-rio-analise-oportunidades)
