@@ -67,6 +67,7 @@ Projeto de Business Intelligence desenvolvido com dados públicos do Inside Airb
 
 Atuar como Analista de Dados em projetos de BI e análise de negócio, utilizando Power BI, SQL, Python e estatística para transformar dados em insights claros, apoiar decisões e melhorar processos.
 
+---
 
 ## 📬 Contato
 
