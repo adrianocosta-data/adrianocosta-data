@@ -1,8 +1,15 @@
-# Adriano Costa | Analista de Dados
 
+<div align="center">
 
-Analista de Dados com foco em transformar dados em análises claras para apoiar decisões de negócio.
+<h1>Adriano Costa </h1>
 
+<h3>Analista de Dados | Power BI • SQL • Python</h3>
+
+<p>
+Transformando dados em análises claras para apoiar decisões de negócio.
+</p>
+
+</div>
 
 ## Linguagens e Tecnologias
 
