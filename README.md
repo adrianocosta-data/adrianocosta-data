@@ -23,7 +23,6 @@ Transformando dados em análises claras para apoiar decisões de negócio.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-
 ---
 
 ## Projeto em destaque
@@ -40,8 +39,7 @@ Transformando dados em análises claras para apoiar decisões de negócio.
 </p>
 Projeto de Business Intelligence desenvolvido com dados públicos do Inside Airbnb, analisando 48.713 anúncios do Rio de Janeiro para identificar bairros com combinações favoráveis de receita estimada, ocupação e concorrência.
 
-
-
+---
 
 **Principais entregas:**
 
